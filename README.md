@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, </h1>
+<h1 align="center">Hello, </h1>
 <h3 align="center">A passionate Full-Stack Architect with over a dacade of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronandmer&label=Profile%20views&color=0e75b6&style=flat" alt="ronandmer" /> </p>
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **react native**
+- I’m currently learning **react native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ronandmer](https://github.com/ronandmer)
+- All of my projects are available at [https://github.com/ronandmer](https://github.com/ronandmer)
 
-- 📝 I regularly write articles on [https://github.com/ronandmer](https://github.com/ronandmer)
+- I regularly write articles on [https://github.com/ronandmer](https://github.com/ronandmer)
 
-- 📫 How to reach me **ronan.dmer1@gmail.com**
+- How to reach me **ronan.dmer1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
