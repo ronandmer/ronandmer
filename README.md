@@ -1,7 +1,7 @@
-<h1 align="center">Full-Stack Architect</h2>
+<h1 align="center">About me</h2>
 <h2 aligh="left">Who am I?</h2>
 <p>
-I am a Software engineer with 15 years of experience.
+I am a Full Stack Software Engineering Architect with 15 years of experience.
 <br/>I have spent most of my career working for fortune 500 Fintech companies and helped develop mission critical revenue generating products.
 <br/>If you use card or mobile payments chances are you are probably using one of my projects in your daily life.
 <br/>My own passion lies in performance engineering and Infrastructure optimization. 
@@ -23,7 +23,6 @@ I am a Software engineer with 15 years of experience.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 📧 <b>Email:</b> <a href="mailto:ronan.dmer1@gmail.com">ronan.dmer1@gmail.com</a><br/>
-📱 <b>Phone:</b> +91 9830363427
 </p>
 
 <p align="left">
