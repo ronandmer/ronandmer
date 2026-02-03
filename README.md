@@ -16,6 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+📧 <b>Email:</b> <a href="mailto:ronan.dmer1@gmail.com">ronan.dmer1@gmail.com</a><br/>
+📱 <b>Phone:</b> +91 9830363427
+</p>
+
+<p align="left">
 </p>
 
 <h3 align="left">🎓 Education</h3>
@@ -45,7 +50,7 @@ B.E. in Computer Science and Engineering<br/>
 </td>
 <td>
 <b>Freelance Software Engineer</b><br/>
-Truelancer • Full-time<br/>
+Full-time<br/>
 Jul 2020 – Present<br/>
 📍 Bengaluru
 </td>
