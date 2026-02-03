@@ -1,11 +1,9 @@
 <h1 align="center">Full-Stack Architect</h2>
-<h2 aligh="center">
+<h2 aligh="left">
 I am a Software engineer with 15 years of experience.
-
-I have spent most of my career working for fortune 500 Fintech companies and helped develop mission critical revenue generating products.
-If you use card or mobile payments chances are you are probably using one of my projects in your daily life.
-
-My own passion lies in performance engineering and Infrastructure optimization. 
+<br/>I have spent most of my career working for fortune 500 Fintech companies and helped develop mission critical revenue generating products.
+<br/>If you use card or mobile payments chances are you are probably using one of my projects in your daily life.
+<br/>My own passion lies in performance engineering and Infrastructure optimization. 
 </h2>
 <h3 align="left">🚀 Monthly Profile Visits</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronandmer&label=Profile%20views&color=0e75b6&style=flat" alt="ronandmer" /> </p>
