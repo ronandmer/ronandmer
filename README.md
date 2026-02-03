@@ -9,12 +9,8 @@
 - I’m currently learning **react native**
 
 - All of my projects are available at [https://github.com/ronandmer](https://github.com/ronandmer)
-
-- I regularly write articles on [https://github.com/ronandmer](https://github.com/ronandmer)
-
-- How to reach me **ronan.dmer1@gmail.com**
+- 
 <h3 align="left">🚀 Key Highlights & Expertise</h3>
-
 <ul>
   <li>☁️ <b>Cloud Cost Optimization Expert</b> – Designing scalable systems with optimized cloud spending</li>
   <li>🏗️ <b>Backend Architecture</b> – Building secure, high-performance, distributed systems</li>
