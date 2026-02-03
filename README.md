@@ -2,14 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronandmer&label=Profile%20views&color=0e75b6&style=flat" alt="ronandmer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronandmer" alt="ronandmer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I’m currently learning **react native**
-
-- All of my projects are available at [https://github.com/ronandmer](https://github.com/ronandmer)
-- 
 <h3 align="left">🚀 Key Highlights & Expertise</h3>
 <ul>
   <li>☁️ <b>Cloud Cost Optimization Expert</b> – Designing scalable systems with optimized cloud spending</li>
