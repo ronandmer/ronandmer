@@ -1,5 +1,5 @@
-<h3 align="center">Full-Stack Architect</h3>
-
+<h1 align="center">Full-Stack Architect</h2>
+<h3 align="left">🚀 Monthly Profile Visits</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronandmer&label=Profile%20views&color=0e75b6&style=flat" alt="ronandmer" /> </p>
 
 
