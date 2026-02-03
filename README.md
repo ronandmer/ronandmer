@@ -13,7 +13,16 @@
 - I regularly write articles on [https://github.com/ronandmer](https://github.com/ronandmer)
 
 - How to reach me **ronan.dmer1@gmail.com**
+<h3 align="left">🚀 Key Highlights & Expertise</h3>
 
+<ul>
+  <li>☁️ <b>Cloud Cost Optimization Expert</b> – Designing scalable systems with optimized cloud spending</li>
+  <li>🏗️ <b>Backend Architecture</b> – Building secure, high-performance, distributed systems</li>
+  <li>💳 <b>Payment Gateway Integration</b> – End-to-end integration of secure payment platforms</li>
+  <li>🤖 <b>AI / ML Solutions</b> – Applying machine learning models for real-world applications</li>
+  <li>🗄️ <b>Database Architecture</b> – Designing highly available, fault-tolerant data systems</li>
+  <li>⚡ <b>Performance Engineering</b> – System optimization for speed, scalability, and reliability</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 📧 <b>Email:</b> <a href="mailto:ronan.dmer1@gmail.com">ronan.dmer1@gmail.com</a><br/>
